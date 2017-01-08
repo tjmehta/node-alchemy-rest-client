@@ -3,6 +3,6 @@
  "version": "0.5.0",
  "author": "Tejesh Mehta <@tjmehta>",
  "dependencies": {
-   "request": "2.9.202"
+   "request": "2.79.0"
  }
 }
